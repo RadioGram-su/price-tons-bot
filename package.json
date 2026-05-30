@@ -1,7 +1,7 @@
 {
-  "name": "amoral-track-bot",
+  "name": "jetton-alert-bot",
   "version": "1.0.0",
-  "description": "Telegram habit tracker bot — quit smoking, alcohol, daily motivation",
+  "description": "Price Tons (@Price_Tons_bot) — jetton prices and alerts on STON.fi and DeDust",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
